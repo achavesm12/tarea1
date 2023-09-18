@@ -1,0 +1,104 @@
+<html>
+
+<head>
+<title>Curriculum Tarea 1</title>
+<meta name="nombre"content="Ana Mar&#237a">
+<meta name="descripcion"content="Tarea 1">
+</head>
+
+<body>
+<img src="mujer.jpeg" alt="Foto" width="200" height="200">
+
+<table> 
+    <tr>  <!-- Seccion informacion personal -->     
+      <th> <font color="green"><font size=5>Informaci&#243n Personal</font><br/></font><br/></th> 
+    </tr>
+    <tr>
+      <td>Ana Mar&#237a Obreg&#243n Chaves</td>
+    </tr>
+    <tr>
+      <td>Est. Ingenier&#237a del Software</td>
+    </tr>
+    <tr>
+      <td>Tarea1@est.utn.ac.cr</td>
+    </tr>
+    <tr>
+      <td>(+506) 8575-8562</td>
+    </tr>
+    <tr>
+      <td>Alajuela</td>
+    </tr>    
+    <tr>
+      <td><a href="https://www.linkedin.com" target="_blank" >LinkedIn</a></td> <!-- Enlace remoto --> 
+    </tr>  
+    <tr>
+      <td><a href="https://www.facebook.com" >Facebook</a></td> <!-- Enlace interno --> 
+    </tr>  
+    <tr> <!-- Seccion educacion -->
+      <th> <font color="green"><font size=5>Informaci&#243n Acad&#233mica</font><br/></font><br/></th> 
+    </tr>
+    <tr>
+      <td>Diplomado Ingenieria del Software. UTN</td>
+    </tr>
+    <tr>
+      <td>T&#233cnico medio Desarrollo de Software. CTP Ca&#241as</td>
+    </tr>
+    <tr>
+      <td>Bachillerato Educaci&#243n Media. CTP Ca&#241as</td> 
+    </tr>
+
+    <tr> <!-- Seccion Cursos Especializados -->     
+      <th> <font color="green"><font size=5>Cursos Especializados</font><br/></font><br/></th>
+    </tr>
+    <tr>
+      <ol type="1">
+        <td><li>Fundamentos de Python</td>      
+    </tr>
+    <tr>      
+        <td><li>Computaci&#243n y Algoritmos</td>      
+    </tr>
+    <tr>      
+        <td><li>Bases de Datos</td>      
+    </tr>
+    <tr>      
+        <td><li>SQL Server</td>
+      </ol>
+    </tr>
+    <tr>  <!-- Seccion experiencia -->     
+      <th> <font color="green"><font size=5>Experiencia</font><br/></font><br/></th> 
+    </tr>  
+  <tr>
+    <td>Programar utilizando Python, Java, C# y C++</td>
+  </tr>
+  <tr>
+    <td>Micrsoft .NET</td>
+  </tr>
+  <tr>
+    <td>Trabajar y desarollar diversos proyectos en la universidad.</td>
+  </tr> 
+  <tr> <!-- Seccion habilidades -->     
+    <th> <font color="green"><font size=5>Habilidades</font><br/></font><br/></th>
+  </tr>
+  <tr>
+    <ul>
+      <td><li>Ingl&#233s intermedio</td>
+    </ul>
+  </tr>
+  <tr>
+    <ul>
+      <td><li>Paquete de Micrsoft Office</td>
+    </ul>
+  </tr>
+  <tr>
+    <ul>
+      <td><li>Programaci&#243n Orientada a Objetos</td>
+    </ul>
+  </tr>
+  <tr>
+    <ul>
+      <td><li>Paquete de Microsoft Office</td>
+    </ul>
+  </tr>
+  </table>
+</body>
+</html>
